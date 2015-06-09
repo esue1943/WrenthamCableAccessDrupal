@@ -1,0 +1,48 @@
+/**
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - There is an scss (SASS) version of this file in the /sass/ directory in your
+ *   sub-theme, if you set Compass to watch it or the directory this file will be
+ *   overwritten!
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000318}}
+html {
+  font-size: 112.5%;
+  /* Increase the default font size on small devices */
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000322}}
+#pe-header-center {
+  margin: -.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000326}}
+#pe-header-center-information {
+  margin: -1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000330}}
+#pe-header-center-information h6 {
+  font-size: .5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000334}}
+#pe-header-left {
+  margin-top: -1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000338}}
+#pe-header-right {
+  margin-top: -1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/elizabethsueproductions\/sites\/all\/themes\/contrib\/at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000342}}
+#pe-footer-copyright h6 {
+  font-size: .5em;
+}

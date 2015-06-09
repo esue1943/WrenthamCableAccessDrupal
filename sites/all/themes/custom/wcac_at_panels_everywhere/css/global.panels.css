@@ -1,0 +1,13 @@
+/**
+ * @file
+ * Panels, AT Panels/GPanels
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.panels\.scss}line{font-family:\00003133}}
+.panel-pane {
+  margin-bottom: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.panels\.scss}line{font-family:\00003154}}
+.block-panels_mini {
+  padding: 0;
+}

@@ -1,0 +1,19 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.comments\.scss}line{font-family:\0000310}}
+#comments {
+  margin: 1.5em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.comments\.scss}line{font-family:\0000329}}
+.comment {
+  margin-bottom: 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.comments\.scss}line{font-family:\0000380}}
+.comment-preview {
+  background-color: #ffffea;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/global\.comments\.scss}line{font-family:\00003119}}
+.new {
+  color: #c00;
+}

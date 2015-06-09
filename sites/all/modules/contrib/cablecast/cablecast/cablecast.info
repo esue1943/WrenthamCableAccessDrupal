@@ -1,0 +1,16 @@
+name = Cablecast
+description = Automatically syncs cablecast content from a cablecast server.
+core = 7.x
+package = Cablecast
+version = 7.x-1.0
+
+configure = admin/config/cablecast
+
+dependencies[] = entityreference
+dependencies[] = date
+; Information added by  packaging script on 2013-11-05
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "cablecast"
+datestamp = "1383617911"
+
