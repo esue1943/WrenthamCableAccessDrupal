@@ -6,31 +6,17 @@
 body {
 	background-color: #b1c2b3;
 }
- 
 
 #pe-site-panel {
 	margin: 2em auto;
 	max-width: 1140px;
 	width: 100%;
 //	background-color:#b1c2b3;
-//	border-radius: 10px 10px 10px 10px;
-//	-moz-border-radius: 10px 10px 10px 10px;
-//	-webkit-border-radius: 10px 10px 10px 10px;
-//	border: 0px solid #000000;
-//	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .pe-leaderboard-region-wrapper{
 	background-color:#f5fcd0;
 	border-radius: 10px 10px 0px 0px;
-	-moz-border-radius: 10px 10px 0px 0px;
-	-webkit-border-radius: 10px 10px 0px 0px;
-//	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-
 	}
 	
 #pe-header-region-wrapper{
@@ -39,12 +25,8 @@ body {
 	width: 100%;
 	background-color:#f5fcd0;
 	border-radius: 10px 10px 0px 0px;
-//	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 	border-width: 5px;
 	border-style:outset outset none outset;
-
 }
 
 #pe-header-left {
@@ -70,10 +52,7 @@ body {
 	max-width: 1140px;
 	width: 100%;
 	background-color:#f5fcd0;
-	-webkit-box-shadow: 10px 0px 5px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 10px 0px 5px 0px rgba(0,0,0,0.75);
 	box-shadow: 10px 0px 5px 0px rgba(0,0,0,0.75);
-
 }
 
 .pe-help-region-wrapper{
@@ -90,10 +69,6 @@ body {
 	width: 100%;
 	background-color: #f5fcd0;
 	border-radius: 0px 0px 10px 10px;
-	-moz-border-radius: 0px 0px 10px 10px;
-	-webkit-border-radius: 0px 0px 10px 10px;
-	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
@@ -102,11 +77,6 @@ body {
 	max-width: 1140px;
 	width: 100%;
 	background-color: #f5fcd0;
-//	border-radius: 0px 0px 10px 10px;
-//	-moz-border-radius: 0px 0px 10px 10px;
-//	-webkit-border-radius: 0px 0px 10px 10px;
-	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
@@ -114,14 +84,6 @@ body {
 .pe-tertiary-region-wrapper{
 	background-color: #f5fcd0;
 	border-radius: 0px 0px 10px 10px;
-	-moz-border-radius: 0px 0px 10px 10px;
-	-webkit-border-radius: 0px 0px 10px 10px;
-//	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-//	margin-bottom: 40px;
-
-
 }
 	
 .pe-footer-region-wrapper{
@@ -137,5 +99,116 @@ body {
 	//margin-top: 20px;
 }
 
+//
+// Cablecast data styling
+//
 
+.meetings-view-title h2 {
+	font-size: 1.1em;
+}
+.cablecast-show {
+	margin: 0 auto;
+}
+
+.cablecast-show ul{
+	padding-left: 4%;
+}
+ 
+.cablecast-show ul li {
+	padding: .5%;
+	margin-top: -10px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+	margin-right: 5px;
+	list-style:none;
+	list-style-image: none;
+	list-style-position: outside;
+	box-sizing:border-box;
+	display: block;
+	float: left;
+	width: 21.5%;
+//	min-height: 240px;
+}
+
+.thumbnail {
+	border:2px solid #d0a116;
+	border-radius: 4px;
+}
+
+.thumbnail-title h6{
+	margin-top: 0;
+	margin-bottom: 0;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: .8em;
+}
+
+.thumbnail-event-date {
+	margin-top: 0;
+	margin-bottom: 0;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: .8em;
+}
+
+.thumbnail-vod {
+	margin-top: 0;
+	margin-bottom: 0;
+	white-space:nowrap;
+	font-weight:bold;
+	text-align:center;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: .8em;
+}
+
+.thumbnail-no-vod {
+	margin-top: 0;
+	margin-bottom: 0;
+	white-space:nowrap;
+	font-weight:bold;
+	text-align:center;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: .8em;
+}
+
+.thumbnail-comments {
+	height: 100px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size: .8em;
+}
+
+div.more-link {
+	margin: 0;
+	float:left;
+}
+
+#mini-panel-footer_mini_panel {
+	background-color:#D0A116;
+}
+
+.footer-meetings h2 {
+	font-size: 1.4em;
+}
+
+.footer-meetings a {
+	font-size: .9em;
+}
+
+.footer-about h2 {
+	font-size: 1.4em;
+}
+
+.footer-about a {
+	font-size: .9em;
+}
+
+
+#footer {
+	background-color: #cccc99;
+}
 

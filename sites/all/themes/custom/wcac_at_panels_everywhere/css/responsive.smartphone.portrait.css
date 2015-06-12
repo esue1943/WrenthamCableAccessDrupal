@@ -46,3 +46,41 @@ html {
 #pe-footer-copyright h6 {
   font-size: .5em;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000350}}
+.meetings-view-title h2 {
+  font-size: .9em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000354}}
+.meetings-view-wrapper div.more-link a {
+  text-align: left;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000359}}
+.cablecast-show h6 {
+  font-size: .9em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000363}}
+.cablecast-show img {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000367}}
+.cablecast-show ul {
+  padding-left: 0%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000371}}
+.cablecast-show ul li {
+  padding: .4%;
+  float: none;
+  width: 98%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/responsive\.smartphone\.portrait\.scss}line{font-family:\0000377}}
+.copyright-generator {
+  font-size: .7em;
+}

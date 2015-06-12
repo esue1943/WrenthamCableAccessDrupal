@@ -3,22 +3,20 @@ body {
   background-color: #b1c2b3;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000310}}
 #pe-site-panel {
   margin: 2em auto;
   max-width: 1140px;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000317}}
 .pe-leaderboard-region-wrapper {
   background-color: #f5fcd0;
   border-radius: 10px 10px 0px 0px;
-  -moz-border-radius: 10px 10px 0px 0px;
-  -webkit-border-radius: 10px 10px 0px 0px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000322}}
 #pe-header-region-wrapper {
   margin: 3em auto 0px;
   max-width: 1140px;
@@ -29,82 +27,197 @@ body {
   border-style: outset outset none outset;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000332}}
 #pe-header-left {
   margin-top: -2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000341}}
 #pe-header-center-information {
   margin: -2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000345}}
 #pe-header-right {
   margin-top: -2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000350}}
 #pe-menu-bar-region-wrapper {
   margin: 0px auto;
   max-width: 1140px;
   width: 100%;
   background-color: #f5fcd0;
-  -webkit-box-shadow: 10px 0px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 0px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 0px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000358}}
 .pe-help-region-wrapper {
   background-color: #f5fcd0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000362}}
 .pe-secondary-region-wrapper {
   background-color: #f5fcd0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000366}}
 #pe-main-content-region-wrapper {
   margin: 0px auto;
   max-width: 1140px;
   width: 100%;
   background-color: #f5fcd0;
   border-radius: 0px 0px 10px 10px;
-  -moz-border-radius: 0px 0px 10px 10px;
-  -webkit-border-radius: 0px 0px 10px 10px;
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003100}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000375}}
 #pe-menu-test {
   margin: 0px auto;
   max-width: 1140px;
   width: 100%;
   background-color: #f5fcd0;
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000384}}
 .pe-tertiary-region-wrapper {
   background-color: #f5fcd0;
   border-radius: 0px 0px 10px 10px;
-  -moz-border-radius: 0px 0px 10px 10px;
-  -webkit-border-radius: 0px 0px 10px 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000389}}
 .pe-footer-region-wrapper {
   background-color: #b1c2b3;
   margin-top: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\0000394}}
 #pe-footer-copyright h6 {
   font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003106}}
+.meetings-view-title h2 {
+  font-size: 1.1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003109}}
+.cablecast-show {
+  margin: 0 auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003113}}
+.cablecast-show ul {
+  padding-left: 4%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003117}}
+.cablecast-show ul li {
+  padding: .5%;
+  margin-top: -10px;
+  margin-bottom: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  list-style: none;
+  list-style-image: none;
+  list-style-position: outside;
+  box-sizing: border-box;
+  display: block;
+  float: left;
+  width: 21.5%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003133}}
+.thumbnail {
+  border: 2px solid #d0a116;
+  border-radius: 4px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003138}}
+.thumbnail-title h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003147}}
+.thumbnail-event-date {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003156}}
+.thumbnail-vod {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+  font-weight: bold;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003167}}
+.thumbnail-no-vod {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+  font-weight: bold;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003178}}
+.thumbnail-comments {
+  height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: .8em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003185}}
+div.more-link {
+  margin: 0;
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003190}}
+#mini-panel-footer_mini_panel {
+  background-color: #D0A116;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003194}}
+.footer-meetings h2 {
+  font-size: 1.4em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003198}}
+.footer-meetings a {
+  font-size: .9em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003202}}
+.footer-about h2 {
+  font-size: 1.4em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003206}}
+.footer-about a {
+  font-size: .9em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/H\:\/xampp\/htdocs\/WrenthamCableAccessDrupal\/sites\/all\/themes\/custom\/wcac_at_panels_everywhere\/sass\/styles\.custom\.scss}line{font-family:\00003211}}
+#footer {
+  background-color: #cccc99;
 }
